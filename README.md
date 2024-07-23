@@ -1,0 +1,1 @@
+Este aplicativo de calculadora de troco foi desenvolvido para auxiliar caixas e clientes em transações comerciais. Ele calcula o troco de forma rápida e precisa, utilizando o menor número possível de notas e moedas.
